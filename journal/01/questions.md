@@ -39,4 +39,4 @@
     > | ANSWER HERE |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > padding, border, margin
