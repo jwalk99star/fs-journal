@@ -1,15 +1,15 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > var, let, const
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > a subprogram designed to perform a particular task. also, "functions are objects."
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > Single responsibility, 
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -38,15 +38,18 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > if (num % 2 == 0) {
+        return 'even'
+    }
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > parameters are used when defining a function. they are the names created in the function definition.
+    > arguments are the values the function receives from each parameter when the function is executed/invoked.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > the "debugger" in the chrome dev tools (found in the sources tab).
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
@@ -54,4 +57,6 @@
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > for (let i = -100, i < 101, i++) {
+        console.log(i)
+    }
