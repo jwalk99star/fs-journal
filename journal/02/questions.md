@@ -34,7 +34,7 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > .push
 
 06. Give an example of a JavaScript `Conditional`:
 
