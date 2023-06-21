@@ -9,7 +9,7 @@
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > | Bundling of data (and methods that act on that data) to restrict access outside of that bundle. |
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
@@ -25,7 +25,7 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > | Organization |
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
