@@ -3,12 +3,14 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 
 ## Prompts
 - What went well this week?
-I felt good about the whole week. Almost. Tuesday's lab was an exercise in frustration. But then on Wednesday, I learned A LOT. Had a tutor session with Jeremy that made a few things seem much clearer. Partnered with Arrington on Thursday and really enjoyed it. Very smart guy, very capable, but willing to slow down enough to talk through everything with me. Instead of just typing what he already knew had to be done, he would ask me what I thought we should do, and then ask me how to write it. That was very cool and it helped me to understand each step of what we were doing and why we were doing it.
+ I learned a lot. Also, my anxiety about being around so many people so often is just about gone. I havent met anyone at codeworks that I dont like.
 - What did you learn that was a shock or surprise?
-I'm actually enjoying being around people. Really enjoying it. That's new.
-Also, Jeremy started this process from absolute zero only about two years ago. That's crazy.
+  I learned ABOUT mvc. I can't say I learned it, but I learned a lot about it. The amount of information was a bit shocking, but as a pleasant surprise, this week wasn't the hellish experience that the guys in the other class made it sound like.
 - What are you struggling with?
-Time. I keep thinking I need just one more day to "catch up" and REALLY understand something, but that's not how this course works. I'm hoping I'll get more time to write code and study the other resources this weekend than I did last weekend. 
+ I feel like I'm working very slowly, so I try to go faster and I make mistakes. Big ones.
+ I need to take the time to make sure I know the information. That is more important than completing a lab assignment.
 - What would you count as a victory?
-I passed my first checkpoint. Only missed one req. Stupid rookie mistake on my part. But I passed it!
-Also, I am thoroughly enjoying this. It's difficult and incredibly time consuming. But I don't feel lost. I think I'm keeping up. I count that as a win, for sure.
+I passed my second checkpoint. It was ugly as sin, but it worked. I made one stupid mistake that I'll never forget.
+And that's the point. To learn.
+Also, Andrew and I worked really well together in Lab today. I think we made it as far as we could, relative to our skill level. I spent the final hour in a tutor session with Mick. I felt so much better about my understanding of mvc when i left his office.
+I hope that translates in to a solid performance on the next checkpoint, which will be assigned tomorrow.
