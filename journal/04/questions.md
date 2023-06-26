@@ -5,7 +5,7 @@
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > 'Its like a guy we hire to watch a certain thing, and if anything happens - do stuff!' - Jeremy
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
@@ -17,19 +17,19 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > a promise means, "we'll get you that data. Eventually."If you've made a request without "await", you'll get an error, because your request implied, "immediately", not "eventually".
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > get, post, put
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > Application Programming Interface
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > add the word await in the request. (const response = await / request /)
 
 09. What is the purpose of encapsulation in programming?
 
@@ -37,8 +37,8 @@
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > Status: 200
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > Page not found. A front end problem.
