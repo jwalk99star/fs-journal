@@ -1,7 +1,7 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > |  Asynchronous code allows multiple things to happen at the same time. In synchronous code, things happen one at a time. |
 
 02. What is an event listener?
 
@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | Representational State Transfer. |
 
 04. What is a callback / higher order function?
 
@@ -41,4 +41,4 @@
 
 11. What is a 400 error?
 
-  > Page not found. A front end problem.
+  > Page not found. "Usually a 'front end' problem.
