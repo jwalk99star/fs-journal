@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | Representational State Transfer. |
+  > | Representational State Transfer. It's "an architectural style, or design pattern, for APIs". So, when you get information from a RESTful API,  |
 
 04. What is a callback / higher order function?
 
