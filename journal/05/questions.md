@@ -21,7 +21,7 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > | One to one:      . One to Many:           . Many to Many: |
 
 07. What is middleware?
 
