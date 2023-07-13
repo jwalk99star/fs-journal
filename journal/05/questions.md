@@ -21,20 +21,22 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | One to one:      . One to Many:           . Many to Many: |
+  > | One to one/1:1 - Author to Address, where the author lives at a single address and the address only contains the one author.
+    | One to Many:           .
+    | Many to Many: |
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > | An application that serves as a bridge between your database and another application. |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > | client request,  server response |
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > | http://localhost:8080/tag?winter |
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > | Additional fields for a given model; i.e., a full name consisting of first AND last. |
