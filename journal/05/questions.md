@@ -22,8 +22,8 @@
 06. What are the three types of data relationships? Provide an example of each.
 
   > | One to one/1:1 - Author to Address, where the author lives at a single address and the address only contains the one author.
-    | One to Many:           .
-    | Many to Many: |
+    | One to Many/1:N - Blog to Comments, where the Blog has many comments, but A comment is only related to a single Blog.
+    | Many to Many/N:M - Book to Author, where the book was written by more than one Author, and those Authors may have written more than one book. |
 
 07. What is middleware?
 
